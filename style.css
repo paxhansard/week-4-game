@@ -1,0 +1,124 @@
+body{
+	background-image: url(background.png);
+	background-repeat: repeat;
+	padding: 5px;
+
+
+}
+#header{
+	background-color: #D884CD;
+	color: 	#11186B;
+	font-weight: bold;
+	font-size: 30px;
+	display: inline-block;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	margin: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+#rules{
+	background-color: #8B1F5C;
+	color: 	#FCF7EC;
+	font-weight: bold;
+	font-size: 15px;
+	height: 300px;
+	width: 400px;
+	padding-top: 20px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+}
+/* .track{
+	padding-top: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	height: 100px;
+} */
+#randomNumber{
+	background-color: #76CFC9;
+	font-size: 35px;
+	width: 200px;
+	color: #1D1C5C;
+	float: left;
+	padding-top: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 5px;
+	padding-right: 2px;
+	height: 100px;
+
+}
+#winsLosses{
+	width: 60px;
+	float: left;
+	font-size: 15px;
+	background-color: #80C597;
+	color: #524980;
+	padding-top: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 5px;
+	padding-right: 2px;
+	height: 100px;
+
+}
+#crystals{
+	clear: both;
+	overflow: hidden;
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 400px;
+
+	
+}
+#yourTotal{
+	background-color: #674999;
+	color: #D9DAED;
+	font-size: 18px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	width: 200px;
+}
+#score{
+	background-color: #674999;
+	color: #D9DAED;
+	font-size: 35px;
+	padding-top: 10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	margin: 5px;
+	padding-left: 2px;
+	padding-right: 2px;
+	height: 100px;
+	width: 200px;
+}
+
